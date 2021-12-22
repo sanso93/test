@@ -1,0 +1,13 @@
+* { padding: 0; margin: 0; -webkit-box-sizing: border-box; box-sizing: border-box; }
+
+.biman { width: 500px; margin: 100px auto; padding: 30px; border: 1px solid #d9d9d9; border-radius: 10px; }
+
+.biman input { display: block; width: 100%; height: 50px; margin-bottom: 10px; padding: 0 14px; }
+
+.biman button { display: block; width: 100%; height: 50px; border: none; outline: none; background-color: #111; color: #fff; -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; padding: 15px; }
+
+.biman #txtResult { display: none; margin-top: 10px; padding: 15px; background-color: #08051d; color: #fff; -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; }
+
+.biman #txtResult span { margin: 0 10px; }
+
+.biman #btnReset { background-color: #666; margin-top: 10px; display: none; }
